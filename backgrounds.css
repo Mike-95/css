@@ -1,0 +1,28 @@
+body{
+    background-color: lightskyblue;
+}
+body{
+    color: white;
+}
+
+h1{
+    background-color: green;
+}
+
+div{
+    background-color: black;
+}
+
+p{
+    background-color: black;
+}
+
+div.first{
+    opacity: 0.1;
+}
+div.second{
+    opacity: 0.3;
+}
+div.third{
+    opacity: 0.6;
+}
